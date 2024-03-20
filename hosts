@@ -128416,9 +128416,9 @@ ff02::3         ip6-allhosts
 0.0.0.0 m.x.com
 0.0.0.0 www.twitter.com
 0.0.0.0 m.twitter.com
-0.0.0.0 m.twitch.com
-0.0.0.0 www.twitch.com
 0.0.0.0 www.instagram.com
 0.0.0.0 m.instagram.com
-0.0.0.0 www.twitch.com
-0.0.0.0 m.twitch.com
+0.0.0.0 www.twitch.tv
+0.0.0.0 m.twitch.tv
+0.0.0.0 www.kick.com
+0.0.0.0 m.kick.com
