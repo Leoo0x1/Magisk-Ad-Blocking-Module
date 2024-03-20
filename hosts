@@ -128412,13 +128412,19 @@ ff02::3         ip6-allhosts
 # 0.0.0.0 example.com
 0.0.0.0 m.youtube.com
 0.0.0.0 www.youtube.com
+0.0.0.0 youtube.com
 0.0.0.0 www.x.com
 0.0.0.0 m.x.com
+0.0.0.0 x.com
 0.0.0.0 www.twitter.com
 0.0.0.0 m.twitter.com
+0.0.0.0 twitter.com
 0.0.0.0 www.instagram.com
 0.0.0.0 m.instagram.com
+0.0.0.0 instagram.com
 0.0.0.0 www.twitch.tv
 0.0.0.0 m.twitch.tv
+0.0.0.0 twitch.tv
 0.0.0.0 www.kick.com
+0.0.0.0 kick.com
 0.0.0.0 m.kick.com
